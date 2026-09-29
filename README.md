@@ -24,7 +24,7 @@ This chatbot processes general user prompts using conditional logic and keyword 
 4. Execute the script using Python:
 
    ```bash
-   python pybot.py
+    pybot.py
  
 
 ---
@@ -57,4 +57,4 @@ This chatbot processes general user prompts using conditional logic and keyword 
 2. Open **Command Prompt** or **Terminal** on your computer.
 3. Navigate to the project directory and run:
    ```bash
-   python pybot.py
+   pybot.py
