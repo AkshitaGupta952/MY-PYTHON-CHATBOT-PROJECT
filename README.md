@@ -17,9 +17,12 @@ This chatbot processes general user prompts using conditional logic and keyword 
 - **Modules Used:** `datetime`, `time`
 
 ## How to Run
-1. Download `pybot.py` or clone this repository.
-2. Open terminal/command prompt or Python IDLE in the project directory.
-3. Run the file:
+
+1. Clone or download `pybot.py` from this repository.
+2. Open **Command Prompt** or **Terminal** on your computer.
+3. Navigate to the folder where `pybot.py` is located, or specify its file path.
+4. Execute the script using Python:
+
    ```bash
    python pybot.py
  
